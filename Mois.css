@@ -1,0 +1,81 @@
+body {
+    background: url(classe-auf.jpg);
+    background-size: cover;
+    height: 800px;
+    position: static;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.db {
+    text-align: center;
+    color: blue;
+}
+
+.h {
+    width: 6px;
+}
+
+.dd {
+    display: flex;
+    float: right;
+}
+
+.g {
+    height:max-content;
+    width: 100%;
+    background-color: rgb(0, 0, 0, 0.8);
+}
+
+.droite{background-color: red;
+    width: 2px;
+    height: 500px;
+}
+
+.cardc {
+    color: white;
+}
+
+.df {
+    margin-left: 50%;
+    color: white;
+}
+.footer{
+    background-color: black;
+    margin-top: 100px;
+}
+.dd{
+    display: flex;
+    margin-left:  800px;
+}
+.card-body{
+    color:white;
+}
+.de {
+    height: 5px;
+    width: 200px;
+    background-color: red;
+    margin-left: 40%;
+}
+hr{
+    background-color: orangered;
+    height: 4px;
+    margin-bottom: 30%;
+}
+.card{
+    display: flex;
+}
+.di{
+    display: flex;
+    background-color: transparent;
+
+}
+.droite tr{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    position: relative;
+    border-radius: 50px;
+    top: 100px;
+}
